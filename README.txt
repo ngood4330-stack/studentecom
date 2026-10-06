@@ -1,17 +1,21 @@
-AOV Lab Complete
-================
-مشروع جامعي متعدد الصفحات لشرح رفع Average Order Value.
+ضع صور المنتجات داخل هذا المجلد بهذه الأسماء:
 
-أهم الصفحات:
-- index.html : الرئيسية
-- shop.html : كل المنتجات
-- product-*.html : صفحة مستقلة لكل منتج
-- cart.html : السلة + الشحن المجاني + خصومات
-- offers.html : Product Bundling + عرض 24 ساعة
-- loyalty.html : نظام الزبون الوفي
-- strategies.html : شرح كل استراتيجية للطلاب
-- dashboard.html : قياس الطلبات والإيراد و AOV
+belt-leather.jpg
+belt-premium.jpg
+bundle.jpg
+cap-premium.jpg
+cap-street.jpg
+jacket-lux.jpg
+jacket-premium.jpg
+pants-premium.jpg
+pants-slim.jpg
+perfume-premium.jpg
+perfume-urban.jpg
+shirt-classic.jpg
+shirt-premium.jpg
+shoes-casual.jpg
+shoes-premium.jpg
+watch-minimal.jpg
+watch-premium.jpg
 
-المشروع يعمل بدون سيرفر. افتح index.html في المتصفح.
-البيانات التجريبية تحفظ في LocalStorage في نفس المتصفح.
-ضع صورك داخل مجلد images وفق الأسماء الموجودة في images/README.txt.
+يفضل صور مربعة أو بنسبة 4:5. إذا لم تضع صورة، سيظهر مكانها Placeholder تلقائيًا.
